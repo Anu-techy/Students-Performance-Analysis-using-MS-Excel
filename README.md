@@ -33,6 +33,10 @@ A Teacher table with teacher details.
 
 5. Outlier Detection – Identified unusual records affecting performance stats.
 
+6. Used VLOOKUP to grade students in their subject and overall score
+
+7. Used VLOOKUP to access students data using admission number, class
+
 ### 💡 **Recommendations**
 
 - Identify underperforming subjects and Create early intervention programs for students at risk of failing.
