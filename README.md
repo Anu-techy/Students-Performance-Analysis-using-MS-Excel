@@ -59,7 +59,18 @@ Open Class_Performance_Dashboard.xlsx → Choose Class → Dashboard updates wit
 
 - Establish a feedback loop from teachers, students, and administrators.
 
-### 👨‍🏫 **Author**
+**Note**
 
 Developed as part of a school academic performance analysis initiative, using Excel as the primary tool for accessibility.
+
 Feedback Loop: Gather feedback from educators, administrators, or students and refine the analysis based on their input.
+
+### 👨‍🏫 **Author**
+
+Dashboard and Analysis by Anusha
+
+💻 GitHub: [https://github.com/Anu-techy]
+
+🎥 YouTube: [https://www.youtube.com/@DataDiveWithAnvi]
+
+🌐 LinkedIn: [https://www.linkedin.com/in/anusha-k-4ba9bb218/]
