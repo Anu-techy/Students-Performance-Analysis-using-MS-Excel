@@ -1,5 +1,7 @@
 # Students-Performance-Analysis-using-MS-Excel
 
+### **Project Overview**
+
 An Excel-based project designed to help schools, teachers, parents, and students analyze academic performance through:
 
 This project demonstrates how Microsoft Excel can be leveraged as a lightweight analytics tool for educational institutions 
@@ -31,7 +33,7 @@ A Teacher table with teacher details.
 
 5. Outlier Detection – Identified unusual records affecting performance stats.
 
-###💡 **Recommendations**
+### 💡 **Recommendations**
 
 - Identify underperforming subjects and Create early intervention programs for students at risk of failing.
 
@@ -39,13 +41,13 @@ A Teacher table with teacher details.
 
 - Establish a feedback loop from teachers, students, and administrators.
 
-###🚀 **How to Use**
+### 🚀 **How to Use**
 
 Open Interactive_ReportCard.xlsx → Enter Admission Number → Auto-report generated.
 
 Open Class_Performance_Dashboard.xlsx → Choose Class → Dashboard updates with KPIs & charts.
 
-###👨‍🏫 **Author**
+### 👨‍🏫 **Author**
 
 Developed as part of a school academic performance analysis initiative, using Excel as the primary tool for accessibility.
 Feedback Loop: Gather feedback from educators, administrators, or students and refine the analysis based on their input.
