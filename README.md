@@ -1,66 +1,51 @@
 # Students-Performance-Analysis-using-MS-Excel
-Interactive Dashboard for the class teachers to analyse the students performance of a class
 
-**Aim**: To build an Interactive Dashboard for the class teachers to analyse the students performance of a class
+An Excel-based project designed to help schools, teachers, parents, and students analyze academic performance through:
 
-**Data Collection**: Real time school data gathered as the computer science faculty in the school according to the subjects and overall performance.
+This project demonstrates how Microsoft Excel can be leveraged as a lightweight analytics tool for educational institutions 
+where access to advanced tools (like Power BI or Tableau) may be limited.
 
-Data consists of Individual tables for each class
+### 🎯 **Aim**
 
-It also has a Teacher table with teachers details. 
+- Build an Interactive Dashboard for teachers to analyze class-level performance.
 
-Used VLOOKUP to access students data and teachers data for the respective class selected.
+- Build an Interactive Report Card for parents and students to track individual performance.
 
-**Data Cleaning and Preparation**
+### 📂 **Data Collection**
 
-Handling Missing Data: Identify and address missing, incomplete, or inconsistent data (e.g., using imputation, deletion, or filling in missing values).
+Real-time school data gathered as part of computer science faculty responsibilities.
 
-Data Transformation: Standardized Date of Birth column format
+Individual tables for each class (subjects & performance).
 
-Removing Duplicates: Identify and remove duplicate records or rows that might skew your analysis. Ensured with correct and unique admission number.
+A Teacher table with teacher details.
 
-Feature Engineering: Created Rank column, Grade column for clear understanding
+### 🧹 **Data Cleaning & Preparation**
 
-Outlier detection 
+1. Handling Missing Data – Imputation/deletion/filling missing values.
 
-**Exploratory Data Analysis (EDA)**
+2. Data Transformation – Standardized Date of Birth format.
 
-Calculated basic statistics (e.g., mean, median, standard deviation) to get a sense of the distribution of grades, attendance, etc.
+3. Removing Duplicates – Ensured unique records using Admission Numbers.
 
-Grade Distribution gives the performance of students in a glance
+4. Feature Engineering – Created Rank, Grade, and other derived columns.
 
-Box plots reveal the subjects performance
+5. Outlier Detection – Identified unusual records affecting performance stats.
 
-Gender Distribution in school in the area reveals a lot about the culture and awareness of the people
+###💡 **Recommendations**
 
-**Data Visualization and Reporting**
+- Identify underperforming subjects and Create early intervention programs for students at risk of failing.
 
-Student - Teacher Ratio KPI
+- Monitor attendance to reduce absenteeism.
 
-Created Box plots to compare and visualize subjects preformanceof the class
+- Establish a feedback loop from teachers, students, and administrators.
 
-Ceated column chart showcasing the Grade Distribution in the class
+###🚀 **How to Use**
 
-Ceated pie-chart revealing  the Gender Distribution in the class
+Open Interactive_ReportCard.xlsx → Enter Admission Number → Auto-report generated.
 
-Created barchart for the Top 5 Performers of the class
+Open Class_Performance_Dashboard.xlsx → Choose Class → Dashboard updates with KPIs & charts.
 
-Created barchart for the Bottom 5 Under Performers of the class
+###👨‍🏫 **Author**
 
-Created a scatter plot to understand the correlation between attendance vs scores
-
-**Recommendations**
-
-Revision pattern for the underperforming subjects
-
-Focussing on Underperformers to improve overall performance of the school
-
-Provide extra tutoring or resources for low-performing students.
-
-Implement attendance monitoring programs to reduce absenteeism.
-
-Adjust teaching strategies or exam preparation to address identified gaps.
-
-Intervene with students predicted to fail
-
+Developed as part of a school academic performance analysis initiative, using Excel as the primary tool for accessibility.
 Feedback Loop: Gather feedback from educators, administrators, or students and refine the analysis based on their input.
