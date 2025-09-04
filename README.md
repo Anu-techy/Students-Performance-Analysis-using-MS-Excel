@@ -37,6 +37,20 @@ A Teacher table with teacher details.
 
 7. Used VLOOKUP to access students data using admission number, class
 
+### 🚀 **How to Use**
+
+Open Interactive_ReportCard.xlsx → Enter Admission Number → Auto-report generated.
+
+Open Class_Performance_Dashboard.xlsx → Choose Class → Dashboard updates with KPIs & charts.
+
+### 🗂️ **Repository Structure**
+
+|         File                | Description |
+|-----------------------------|-------------|
+| `dashboard screenshot`  | Class Teacher Dashboard |
+| `Report Card Screenshot`  | student Report card Dashboard |
+| `README.md`                           | Project documentation |
+
 ### 💡 **Recommendations**
 
 - Identify underperforming subjects and Create early intervention programs for students at risk of failing.
@@ -44,12 +58,6 @@ A Teacher table with teacher details.
 - Monitor attendance to reduce absenteeism.
 
 - Establish a feedback loop from teachers, students, and administrators.
-
-### 🚀 **How to Use**
-
-Open Interactive_ReportCard.xlsx → Enter Admission Number → Auto-report generated.
-
-Open Class_Performance_Dashboard.xlsx → Choose Class → Dashboard updates with KPIs & charts.
 
 ### 👨‍🏫 **Author**
 
