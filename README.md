@@ -37,6 +37,8 @@ A Teacher table with teacher details.
 
 7. Used VLOOKUP to access students data using admission number, class
 
+8. Used Pivot Tables or Charts for Visuals
+
 ### 🚀 **How to Use**
 
 Open Interactive_ReportCard.xlsx → Enter Admission Number → Auto-report generated.
